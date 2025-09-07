@@ -64,5 +64,5 @@ export const minRange = (
     }
   }
 
-  return undefined;
+  return minimumRangeFound;
 };
